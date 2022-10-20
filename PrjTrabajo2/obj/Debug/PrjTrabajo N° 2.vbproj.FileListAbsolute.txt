@@ -1,0 +1,28 @@
+C:\Users\Camila\AppData\Local\Temporary Projects\PrjTrabajo N° 2\bin\Debug\PrjTrabajo N° 2.exe.config
+C:\Users\Camila\AppData\Local\Temporary Projects\PrjTrabajo N° 2\bin\Debug\PrjTrabajo N° 2.exe
+C:\Users\Camila\AppData\Local\Temporary Projects\PrjTrabajo N° 2\bin\Debug\PrjTrabajo N° 2.pdb
+C:\Users\Camila\AppData\Local\Temporary Projects\PrjTrabajo N° 2\bin\Debug\PrjTrabajo N° 2.xml
+C:\Users\Camila\AppData\Local\Temporary Projects\PrjTrabajo N° 2\obj\Debug\PrjTrabajo_N__2.FrmDatosDeAlumnos.resources
+C:\Users\Camila\AppData\Local\Temporary Projects\PrjTrabajo N° 2\obj\Debug\PrjTrabajo_N__2.Resources.resources
+C:\Users\Camila\AppData\Local\Temporary Projects\PrjTrabajo N° 2\obj\Debug\PrjTrabajo N° 2.vbproj.GenerateResource.Cache
+C:\Users\Camila\AppData\Local\Temporary Projects\PrjTrabajo N° 2\obj\Debug\PrjTrabajo N° 2.exe
+C:\Users\Camila\AppData\Local\Temporary Projects\PrjTrabajo N° 2\obj\Debug\PrjTrabajo N° 2.xml
+C:\Users\Camila\AppData\Local\Temporary Projects\PrjTrabajo N° 2\obj\Debug\PrjTrabajo N° 2.pdb
+E:\Visual\Trabajos\SnlTrabajo N° 2\PrjTrabajo N° 2\bin\Debug\PrjTrabajo N° 2.exe.config
+E:\Visual\Trabajos\SnlTrabajo N° 2\PrjTrabajo N° 2\obj\Debug\PrjTrabajo N° 2.exe
+E:\Visual\Trabajos\SnlTrabajo N° 2\PrjTrabajo N° 2\obj\Debug\PrjTrabajo N° 2.xml
+E:\Visual\Trabajos\SnlTrabajo N° 2\PrjTrabajo N° 2\obj\Debug\PrjTrabajo N° 2.pdb
+E:\Visual\Trabajos\SnlTrabajo N° 2\PrjTrabajo N° 2\bin\Debug\PrjTrabajo N° 2.exe
+E:\Visual\Trabajos\SnlTrabajo N° 2\PrjTrabajo N° 2\bin\Debug\PrjTrabajo N° 2.pdb
+E:\Visual\Trabajos\SnlTrabajo N° 2\PrjTrabajo N° 2\bin\Debug\PrjTrabajo N° 2.xml
+E:\Visual\Trabajos\SnlTrabajo N° 2\PrjTrabajo N° 2\obj\Debug\PrjTrabajo_N__2.FrmDataBaseDeAlumnos.resources
+E:\Visual\Trabajos\SnlTrabajo N° 2\PrjTrabajo N° 2\obj\Debug\PrjTrabajo_N__2.Resources.resources
+E:\Visual\Trabajos\SnlTrabajo N° 2\PrjTrabajo N° 2\obj\Debug\PrjTrabajo N° 2.vbproj.GenerateResource.Cache
+D:\Programas y mas\Visual\Trabajos\SnlTrabajo N° 2\PrjTrabajo N° 2\bin\Debug\PrjTrabajo N° 2.exe.config
+D:\Programas y mas\Visual\Trabajos\SnlTrabajo N° 2\PrjTrabajo N° 2\obj\Debug\PrjTrabajo N° 2.exe
+D:\Programas y mas\Visual\Trabajos\SnlTrabajo N° 2\PrjTrabajo N° 2\obj\Debug\PrjTrabajo N° 2.xml
+D:\Programas y mas\Visual\Trabajos\SnlTrabajo N° 2\PrjTrabajo N° 2\obj\Debug\PrjTrabajo N° 2.pdb
+D:\Visual\Trabajos\SnlTrabajo N° 2\PrjTrabajo N° 2\bin\Debug\PrjTrabajo N° 2.exe.config
+D:\Visual\Trabajos\SnlTrabajo N° 2\PrjTrabajo N° 2\obj\Debug\PrjTrabajo N° 2.exe
+D:\Visual\Trabajos\SnlTrabajo N° 2\PrjTrabajo N° 2\obj\Debug\PrjTrabajo N° 2.xml
+D:\Visual\Trabajos\SnlTrabajo N° 2\PrjTrabajo N° 2\obj\Debug\PrjTrabajo N° 2.pdb
